@@ -1739,6 +1739,8 @@ Cryrivers: cryrivers!me.com
 	Apple
 CsatariGergely: CsatariGergely!users.noreply.github.com, gergely.csatari!nokia.com
 	Nokia
+Coltonstapper: coltonbstapper!gmail.com
+	Apple
 CurryWurry: CurryWurry!users.noreply.github.com
 	Mazda Motor Belux until 2019-04-01
 	DHL from 2019-04-01
